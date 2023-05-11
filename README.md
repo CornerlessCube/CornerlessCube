@@ -25,7 +25,7 @@ Stuff I use for development:
 - GitHub (well, who would have thought 😄)
 - StackOverflow (honestly: is there any developer not using it?!)
 
-🌱 I'm currently learning C#
+🌱 I'm currently learning Rust
 
 📚 My current projects:
 - Custom Minecraft server implementation
